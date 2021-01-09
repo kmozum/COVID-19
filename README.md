@@ -1,5 +1,5 @@
-# Copied from https://github.com/CSSEGISandData/COVID-19 
-## Refer to origina latest updates from source
+#i# Fork of https://github.com/CSSEGISandData/COVID-19 
+## Refer to original for latest updates from source
 
 ## <b>ADDENDA:</b>
 1. Added environment.yml

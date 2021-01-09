@@ -1,12 +1,13 @@
 # Cloned from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University - refer to https://github.com/CSSEGISandData/COVID-19 for original and to get latest updates from original
 
-Addenda:
-========
-Added environment.yml
-   . conda env create -f environment.yml
-   . conda activate  covid-19-tracker
-Copied https://raw.githubusercontent.com/CSSEGISandData/COVID-19/web-data/data/cases_country.csv 
-   . Destination file:   csse_covid_19_data/csse_covid_19_time_series/cases_country.csv 
+## <b>ADDENDA:</b>
+1. Added environment.yml
+   1. conda env create -f environment.yml
+   2. conda activate  covid-19-tracker
+
+
+2. Copied https://raw.githubusercontent.com/CSSEGISandData/COVID-19/web-data/data/cases_country.csv 
+   1. Destination file:   csse_covid_19_data/csse_covid_19_time_series/cases_country.csv 
 
 
 

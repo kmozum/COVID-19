@@ -1,4 +1,5 @@
-# Cloned from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University - refer to https://github.com/CSSEGISandData/COVID-19 for original and to get latest updates from original
+# Cloned from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University 
+## refer to https://github.com/CSSEGISandData/COVID-19 for original and to get latest updates from original
 
 ## <b>ADDENDA:</b>
 1. Added environment.yml

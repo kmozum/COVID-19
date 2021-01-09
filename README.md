@@ -1,4 +1,4 @@
-#i# Fork of https://github.com/CSSEGISandData/COVID-19 
+## Fork of https://github.com/CSSEGISandData/COVID-19 
 ## Refer to original for latest updates from source
 
 ## <b>ADDENDA:</b>

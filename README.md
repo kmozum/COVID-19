@@ -1,4 +1,13 @@
-# COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
+# Cloned from COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University - refer to https://github.com/CSSEGISandData/COVID-19 for original and to get latest updates from original
+
+Addenda:
+========
+Added environment.yml
+   . conda env create -f environment.yml
+   . conda activate  covid-19-tracker
+Copied https://raw.githubusercontent.com/CSSEGISandData/COVID-19/web-data/data/cases_country.csv 
+   . Destination file:   csse_covid_19_data/csse_covid_19_time_series/cases_country.csv 
+
 
 
 This is the data repository for the 2019 Novel Coronavirus Visual Dashboard operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL).
